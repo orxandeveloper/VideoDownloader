@@ -1,0 +1,9 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.vst*
+Instagram_Videos/
+Youtube_Videos/
+TikTok_Videos/
